@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Twisiting_Water_Bottle.wav-f90e736188e43e9bab83c714cde5080a.sample"
+
+[deps]
+
+source_file="res://Twisiting_Water_Bottle.wav"
+dest_files=[ "res://.import/Twisiting_Water_Bottle.wav-f90e736188e43e9bab83c714cde5080a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

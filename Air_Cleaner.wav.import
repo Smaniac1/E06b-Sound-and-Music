@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Air_Cleaner.wav-66e24fcf1d7d1f337897d96a7be311d1.sample"
+
+[deps]
+
+source_file="res://Air_Cleaner.wav"
+dest_files=[ "res://.import/Air_Cleaner.wav-66e24fcf1d7d1f337897d96a7be311d1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
